@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<locale language="EN">
+
+ <!-- module -->
+ <text key="module-title">Module Template</text>
+
+ <!-- alerts -->
+ <text key="addressNotFound">The address was not found..</text>
+ <text key="addressCreated">The address was created</text>
+ <text key="addressUpdated">The address was updated</text>
+ <text key="addressDeleted">The address was deleted</text>
+
+ <!-- logs -->
+ <text key="logs_training_addressCreated">Address [Created] {0} {1}</text>
+ <text key="logs_training_addressUpdated">Address [Updated] {0} {1}</text>
+ <text key="logs_training_addressDeleted">Address [Deleted] {0} {1}</text>
+
+ <!-- filters -->
+ <text key="filter-sex">Sex</text>
+ <text key="filter-undefined">Undefined</text>
+ <text key="filter-male">Male</text>
+ <text key="filter-female">Female</text>
+
+ <!-- sex -->
+ <text key="sex-undefined">Undefined</text>
+ <text key="sex-male">Male</text>
+ <text key="sex-female">Female</text>
+
+ <!-- template.inc.php -->
+ <text key="training-nav-list">Address list</text>
+ <text key="training-nav-operations">Operations</text>
+ <text key="training-nav-edit">Edit address</text>
+ <text key="training-nav-delete">Delete address</text>
+ <text key="training-nav-delete-confirm">Are you sure you want to delete this address?</text>
+ <text key="training-nav-export">Export address</text>
+ <text key="training-nav-add">Add address</text>
+
+ <!-- training_list.php -->
+ <text key="training_list-tr-unvalued">There are no address to show..</text>
+ <text key="training_list-th-lastname">Lastname</text>
+ <text key="training_list-th-firstname">Firstname</text>
+ <text key="training_list-th-address">Address</text>
+
+ <!-- training_view.php -->
+ <text key="training_view-dt-name">Name</text>
+ <text key="training_view-dt-sex">Sex</text>
+ <text key="training_view-dt-birthday">Birthday</text>
+
+ <!-- training_edit.php -->
+ <text key="training_edit-ff-firstname">Firstname</text>
+ <text key="training_edit-ff-firstname-placeholder">Insert the first name</text>
+ <text key="training_edit-ff-lastname">Lastname</text>
+ <text key="training_edit-ff-lastname-placeholder">Insert the last name</text>
+ <text key="training_edit-ff-sex">Sex</text>
+ <text key="training_edit-fo-sex-undefined">Undefined</text>
+ <text key="training_edit-fo-sex-male">Male</text>
+ <text key="training_edit-fo-sex-female">Female</text>
+ <text key="training_edit-ff-birthday">Birthday</text>
+ <text key="training_edit-fc-submit">Submit</text>
+ <text key="training_edit-fc-cancel">Cancel</text>
+
+</locale>
